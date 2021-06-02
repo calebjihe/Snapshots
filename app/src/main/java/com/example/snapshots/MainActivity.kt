@@ -1,3 +1,4 @@
+
 package com.example.snapshots
 
 import androidx.appcompat.app.AppCompatActivity
